@@ -1,0 +1,14 @@
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 35px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-orange: #ff8810;
+}
